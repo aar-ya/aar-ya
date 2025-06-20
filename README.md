@@ -86,7 +86,6 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F7C1C6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarya-deshpande-63a338226)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFD6DD?style=for-the-badge&logo=about-dot-me&logoColor=black)](https://aarya-deshpande-portfolio.netlify.app/)
-[![LangBot](https://img.shields.io/badge/LangBot-Live%20Demo-FFF6EC?style=for-the-badge)](https://langbot-o7xi.onrender.com/)
 
 </div>
 
