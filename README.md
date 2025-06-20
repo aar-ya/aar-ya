@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<img alt="Soft colored divider" src="https://capsule-render.vercel.app/api?type=soft&color=f7c1c6,fff6ec,e5eaf3&height=80&section=header&text=&fontColor=ffffff"/>
+<img alt="Soft colored divider"  src="https://i.imgur.com/baRcxJr.png" alt="divider" width="100%"/>
 
 </div>
 
